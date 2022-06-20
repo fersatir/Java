@@ -1,4 +1,4 @@
-package Enum.Ex01;
+package day34Enum.Exp01;
 
 public enum Aylar {
     OCAK,

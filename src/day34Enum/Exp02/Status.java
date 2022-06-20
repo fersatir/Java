@@ -1,4 +1,4 @@
-package Enum.Ex02;
+package day34Enum.Exp02;
 
 public enum Status {
     ACTIVE,
