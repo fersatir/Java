@@ -1,4 +1,4 @@
-package day34Enum.Exp04;
+package day34enum.Exp04;
 
 public enum Aylar {
    // OCAK(31,"kış","Ali bey"),

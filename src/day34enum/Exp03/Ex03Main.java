@@ -1,4 +1,4 @@
-package day34Enum.Exp03;
+package day34enum.Exp03;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package day34Enum.Exp04;
+package day34enum.Exp04;
 
 public class Ex04Main {
     public static void main(String[] args) {
