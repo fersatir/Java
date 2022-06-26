@@ -3,7 +3,7 @@ package day35generics;
 import java.util.ArrayList;
 import java.util.List;
 
-public class g03nonGenericClass {
+public class G03nonGenericClass {
 
     public static void main(String[] args) {
 
