@@ -1,6 +1,6 @@
 package projects.BankProject;
 
-import static Projects.P14_BankaProjesi.Menus.*;
+import static projects.BankProject.Menus.*;
 
 public class OperationsTRY implements Operations{
 

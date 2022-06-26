@@ -1,6 +1,6 @@
 package projects.BankProject;
 
-import static Projects.P14_BankaProjesi.Menus.currentCustomer;
+import static projects.BankProject.Menus.currentCustomer;
 
 public class AutoLoan implements Credits {
     @Override

@@ -1,7 +1,7 @@
 package projects.BankProject;
 
-import static Projects.P14_BankaProjesi.CustomerServices.defaultCustomer;
-import static Projects.P14_BankaProjesi.Menus.registerMenu;
+import static projects.BankProject.CustomerServices.defaultCustomer;
+import static projects.BankProject.Menus.registerMenu;
 
 public class Runner {
     public static void main(String[] args) {

@@ -7,8 +7,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-import static Projects.P14_BankaProjesi.Menus.customersMap;
-import static Projects.P14_BankaProjesi.Menus.loginId;
+import static projects.BankProject.Menus.customersMap;
+import static projects.BankProject.Menus.loginId;
+
 
 public class CustomerServices {
     static int numSummary = 1001;

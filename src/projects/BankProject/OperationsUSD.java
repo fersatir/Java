@@ -1,7 +1,7 @@
 package projects.BankProject;
 
-import static Projects.P14_BankaProjesi.CustomerServices.transactionSummary;
-import static Projects.P14_BankaProjesi.Menus.*;
+import static projects.BankProject.CustomerServices.transactionSummary;
+import static projects.BankProject.Menus.*;
 
 public class OperationsUSD implements Operations {
     @Override

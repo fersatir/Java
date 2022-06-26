@@ -3,8 +3,8 @@ package projects.BankProject;
 
 import java.time.LocalDateTime;
 
-import static Projects.P14_BankaProjesi.Menus.currentCustomer;
-import static Projects.P14_BankaProjesi.OperationsTRY.creditsTransaction;
+import static projects.BankProject.Menus.currentCustomer;
+import static projects.BankProject.OperationsTRY.creditsTransaction;
 
 public class LoanRepayment implements Credits {
     @Override
